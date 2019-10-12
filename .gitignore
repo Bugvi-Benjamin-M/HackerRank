@@ -9,6 +9,7 @@
 *.pif
 *.vb
 *.wsf
+[^\.]*
 
 ### VisualStudioCode ###
 .vscode/*
